@@ -46,9 +46,9 @@ Become familiar with the main capabilities and advantages of the Google Cloud pl
         3. Machine Configuration:
         ```json
         {
-            Series: "E2",
-            Machine type: "e2-micro",
-            Availability policies: "Spot"
+            "Series": "E2",
+            "Machine type": "e2-micro",
+            "Availability policies": "Spot"
         }
         ```
 > Screenshot 2: Virtual Machine successfully created. >>> [2_VirtualMachineCreated.jpg](../media/lab1/2_VirtualMachineCreated.jpg)
