@@ -2,4 +2,13 @@
 This is course project for cloud platforms
 
 # Lab 1
-[Lab 1 Report](./lab1/SummaryOfLab1.md)
+[Lab 1 Report](./lab1/SummaryOfLab1.md) - &#9989; Done
+
+# Lab 2
+[Lab 2 Report](./lab2/Lab2Report.md) - &#128993; Need Review
+
+# Lab 3
+[Lab 3 Report](#) - &#10060; Not started yet
+
+# Lab 4
+[Lab 4 Report](#) - &#10060; Not started yet

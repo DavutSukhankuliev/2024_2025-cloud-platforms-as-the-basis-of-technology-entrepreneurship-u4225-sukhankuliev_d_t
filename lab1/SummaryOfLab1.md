@@ -1,4 +1,23 @@
 # Lab 1 - Overview of Google Cloud and Exploration of Key Services
+
+University: [ITMO University](https://itmo.ru)
+
+Faculty: [FTMI](https://ftmi.itmo.ru)
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024-2025
+
+Group: U4225
+
+Author: Sukhankulyev Davut Tumenovich
+
+Lab: Lab1
+
+Date of create: 21.10.2024
+
+Date of finished: 22.10.2024
+
 ## Task
 
 ### Objective

@@ -1,4 +1,23 @@
 # Lab 2 - Explore Cloud Run
+
+University: [ITMO University](https://itmo.ru)
+
+Faculty: [FTMI](https://ftmi.itmo.ru)
+
+Course: Cloud platforms as the basis of technology entrepreneurship
+
+Year: 2024-2025
+
+Group: U4225
+
+Author: Sukhankulyev Davut Tumenovich
+
+Lab: Lab2
+
+Date of create: 25.10.2024
+
+Date of finished: 28.10.2024
+
 ## Task
 
 ### Objective
