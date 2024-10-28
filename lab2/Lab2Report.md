@@ -85,4 +85,17 @@ I wanted to expand my knowledge and decided to try deploying a Docker container 
     Example work:
     ![Service is working!](../media/lab2/2_2_ExampleWorkOfService.png)
 
-3. 
+3. I looked through metrics and logs and noticed that Exceptions are logged in metrics. You also can see Service status in "Metrics" tab. How the VM is working. Logs from the project are shown in "Logs" tab. This was very useful.
+![Giff: Metrics and Logs](../media/lab2/2_2_ExampleWorkOfService.png)
+
+4. Then I created second revision of the same image file with 8090 port and managed traffic with ratio 50:50 between 2 revisions of the service. The main point I noticed is that we can see that 2 Containers can run at the same time, and i gues the workload is separated in this case.
+![Screenshot of Metrics after 2nd revision activated](../media/lab2/4_1_MetricsTwoRevisions.png)
+
+5. Then I deleted all created cloud run instances and removed docker image :)
+
+## Conclusion
+In this lab, I learned the basics of Google Cloud Run by deploying my own Docker-based service.
+- I built and pushed a Docker image to Google Cloud’s Artifact Registry and successfully deployed it in Cloud Run, where I tested its functionality.
+- I explored the "Logs" and "Metrics" sections to see how Cloud Run monitors service performance and errors.
+- Finally, I created a second version of the service with a different port, allowing me to test traffic splitting between versions.
+- This lab provided a good overview of deploying and managing containerized applications with Cloud Run.
