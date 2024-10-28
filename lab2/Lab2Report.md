@@ -76,4 +76,13 @@ I wanted to expand my knowledge and decided to try deploying a Docker container 
         3. Soon the iamge has been pushed in our Google Cloud:
             ![Screenshot of Docker images](../media/lab2/0_4_DockerImagesPushed.png) 
 
-1.  
+1. Then I could Deploy my service as a Docker Image via Cloud Run:
+![Giff: Deploy a Service via Cloud Run](../media/lab2/1_DeployDockerImageInCloudRun.gif)
+
+2. After that I could see that my server runs at `https://davut-web-technologies-project-307056602443.us-central1.run.app` URL
+![Screenshot: Service Running](../media/lab2/2_1_DeployedService.png)
+    
+    Example work:
+    ![Service is working!](../media/lab2/2_2_ExampleWorkOfService.png)
+
+3. 
