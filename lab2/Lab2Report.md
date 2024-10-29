@@ -102,10 +102,10 @@ I wanted to expand my knowledge and decided to try deploying a Docker container 
 ![Screenshot: Service Running](../media/lab2/2_1_DeployedService.png)
     
     Example work:
-    ![Service is working!](../media/lab2/3_1_ServiceMetricsAndLogs.gif)    
+    ![Service is working!](../media/lab2/2_2_ExampleWorkOfService.png)    
 
 3. I looked through metrics and logs and noticed that Exceptions are logged in metrics. You also can see Service status in "Metrics" tab. How the VM is working. Logs from the project are shown in "Logs" tab. This was very useful.
-![Giff: Metrics and Logs](../media/lab2/2_2_ExampleWorkOfService.png)
+![Giff: Metrics and Logs](../media/lab2/3_1_ServiceMetricsAndLogs.gif)
 
 4. Then I created second revision of the same image file with 8090 port and managed traffic with ratio 50:50 between 2 revisions of the service. The main point I noticed is that we can see that 2 Containers can run at the same time, and i gues the workload is separated in this case.
 ![Screenshot of Metrics after 2nd revision activated](../media/lab2/4_1_MetricsTwoRevisions.png)
