@@ -102,7 +102,7 @@ I wanted to expand my knowledge and decided to try deploying a Docker container 
 ![Screenshot: Service Running](../media/lab2/2_1_DeployedService.png)
     
     Example work:
-    ![Service is working!](../media/lab2/2_2_ExampleWorkOfService.png)
+    ![Service is working!](../media/lab2/3_1_ServiceMetricsAndLogs.gif)    
 
 3. I looked through metrics and logs and noticed that Exceptions are logged in metrics. You also can see Service status in "Metrics" tab. How the VM is working. Logs from the project are shown in "Logs" tab. This was very useful.
 ![Giff: Metrics and Logs](../media/lab2/2_2_ExampleWorkOfService.png)
