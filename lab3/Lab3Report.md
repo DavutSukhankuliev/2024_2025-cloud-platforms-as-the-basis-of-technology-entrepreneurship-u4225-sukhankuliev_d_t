@@ -1,4 +1,4 @@
-# Lab 3 - Explore Cloud Run
+# Lab 3 - Explore Google Cloud Storage | Buckets
 
 University: [ITMO University](https://itmo.ru)
 
