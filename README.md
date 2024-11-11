@@ -11,4 +11,4 @@ This is course project for cloud platforms
 [Lab 3 Report](./lab3/Lab3Report.md) - &#9989; Done
 
 # Lab 4
-[Lab 4 Report](#) - &#10060; Not started yet
+[Lab 4 Report](./lab4/Lab4Report.md) - &#9989; Done
